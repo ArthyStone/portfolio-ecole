@@ -2,10 +2,10 @@
    votre teinte au site ; le reste suit. */
 :root {
   --encre: #1d2630;
-  --accent: #0a5c8c;
-  --fond: #fbfbf9;
-  --trait: #d5dbe1;
-  --doux: #5b6672;
+  --accent: #a53914;
+  --fond: #f3e5de;
+  --trait: #c3b7b1;
+  --doux: #8e7264;
 }
 * { box-sizing: border-box; }
 body {
