@@ -1,6 +1,6 @@
 ---
 title: "ScreenShow"
-date: 2025-06-00
+date: 2025-06-01
 cadre: "Projet Personnel"
 resume: "Création d'un site permettant de créer plus d'engagement sur un stream Twitch pour PierreShow."
 competences: [c3, c4, c5]
