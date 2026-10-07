@@ -15,7 +15,7 @@ body {
   font: 17px/1.6 Georgia, "Times New Roman", serif;
 }
 header, main, footer { max-width: 46rem; margin: 0 auto; padding: 0 1rem; }
-header { padding-top: 1.6rem; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .5rem 1.5rem; }
+header { padding-top: 1.6rem; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .5rem 1.5rem; background-color: var(--trait); }
 .site { margin: 0; font: bold 1.05rem Calibri, Arial, sans-serif; }
 .site a { color: var(--encre); text-decoration: none; }
 nav ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .3rem 1.2rem; font-family: Calibri, Arial, sans-serif; }
