@@ -30,4 +30,4 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 ## Ce que j'en retiens
 
-Remplacez cette phrase par une difficulté rencontrée et la façon dont vous l'avez réglée.
+J'ai découvert la configuration via YAML, je ne connaissais jusqu'à présent que les configurations en JSON.
